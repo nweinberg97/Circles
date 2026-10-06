@@ -1,0 +1,62 @@
+/* Circles design tokens.
+   Brand navy and lagoon teal come from the original deck; the warm "ember" and
+   sky blue come from the Energy and Intention value slides. */
+:root {
+  --navy: #06335a;
+  --navy-2: #0c4877;
+  --navy-deep: #04223d;
+  --ink: #0b2740;
+  --ink-2: #2f475b;
+  --muted: #587083;
+  --faint: #8fa1ae;
+
+  --teal: #6ad3cb;
+  --teal-strong: #2bb3a8;
+  --teal-ink: #0b6f66;
+  --teal-wash: #e2f5f2;
+
+  --ember: #c7702a;
+  --ember-ink: #8f4a12;
+  --ember-wash: #fbeedf;
+  --sky: #66b2f9;
+  --aqua: #b3fcf5;
+  --danger: #b4382f;
+
+  --paper: #f3f6f5;
+  --card: #ffffff;
+  --line: #dde6e4;
+  --line-2: #c8d5d3;
+  --hover: #eef3f2;
+
+  --g: #5b67e0;
+  --g-soft: #eceefd;
+  --g-deep: #2b3478;
+
+  --font-display: 'League Spartan', 'Poppins', 'Avenir Next', system-ui, sans-serif;
+  --font-body: 'Figtree', 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.8125rem;
+  --fs-base: 0.9375rem;
+  --fs-md: 1.0625rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: 1.625rem;
+  --fs-2xl: 2.125rem;
+  --fs-3xl: 3rem;
+  --fs-4xl: 4.25rem;
+
+  --r-xs: 6px;
+  --r-sm: 10px;
+  --r: 14px;
+  --r-lg: 22px;
+  --r-pill: 999px;
+
+  --shadow-sm: 0 1px 2px rgba(6, 51, 90, 0.06);
+  --shadow: 0 1px 2px rgba(6, 51, 90, 0.05), 0 8px 24px -12px rgba(6, 51, 90, 0.18);
+  --shadow-lg: 0 24px 64px -24px rgba(4, 34, 61, 0.45);
+
+  --demo-h: 44px;
+  --side-w: 252px;
+  --rail-w: 316px;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
