@@ -2,9 +2,13 @@
 
 **Build community through shared goals.**
 
+### ▶ Open the live prototype: **https://nweinberg97.github.io/Circles/**
+
+No install needed — it runs in any browser, on desktop or phone.
+
 Circles is a social habit-building platform: small groups of 5–7 people working toward the same health goal, with a weekly rhythm, a shared challenge, and experts in their corner. This repository is a working, clickable prototype of the whole product — the member experience, the Circle leader's tools, and the organization (B2B) admin.
 
-## Run it
+## Run it locally
 
 It's a static app with no build step and no dependencies.
 
